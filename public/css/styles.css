@@ -1,0 +1,54 @@
+
+    .container .center{
+        height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    .card-title{
+        font-family: "space Grotesk", sans-serif !important;
+        color: white!important;
+      
+font-size: 30px;
+font-weight: 900;
+letter-spacing: .7px;
+line-height: 1.2em;
+margin: 0 0 20px 0;
+min-height: 72px;
+text-align:center!important;
+    }
+    .card-text{
+        font-size: 18px;
+line-height: 1.4em;
+margin: 0 0 30px 0;
+letter-spacing: 0.19px;
+color: white!important;
+font-family: "proxima-nova", Arial, Helvetica, sans-serif;
+    }
+    
+    .btn-primary {
+        color: #fff;
+        background-color: #0a164a;
+        border-color: transparent;
+    }
+    .btn-primary:hover {
+        background-color: #0a164a;
+    }
+    .bg-light{
+        background: transparent!important;
+    }
+    .navbar-brand{
+        margin-left: 100px;
+    }
+    .nav-link{
+        color: #fff!important;
+    }
+    .navbar{
+        margin-top: 20px !important;
+    }
+    .form-label{
+        color: #fff!important;
+    }
+    .alert{
+        padding: 0!important;
+    }
